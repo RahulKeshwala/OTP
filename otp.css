@@ -298,17 +298,3 @@ main.mode .OTPform {
     font-size: 0.6rem;
 
 }
-.placeholder{
-    position: relative;
-    top: 3rem;
-    color:#bababa;
-    font-size: 0.7rem;
-}
-
-@media (width=878px) {
-    .log-in2{
-        height: 0;
-        width: 0;
-        display: none;
-    }
-}
